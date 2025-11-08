@@ -1,0 +1,65 @@
+{
+  "title": "LEVITATE Anthology",
+  "description": "Pairing: Gojo Satoru x Itadori Yuuji",
+  "artist": "islet / Enoshima",
+  "author": "islet / Enoshima",
+  "cover": "https://cdn.imgchest.com/files/7kzcawvegx7.jpg",
+  "chapters": {
+    "1": {
+      "title": "Haru Nante Uso da | Spring is a Lie",
+      "volume": "0",
+      "groups": {
+        "islet / Enoshima": "/proxy/api/imgchest/chapter/n87wmzv2q4x/"
+      },
+      "last_updated": "1689862451"
+    },
+"2": {
+      "title": "Akugyou | Immorality",
+      "volume": "0",
+      "groups": {
+        "islet / Enoshima": "/proxy/api/imgchest/chapter/92493xa584n/"
+      },
+      "last_updated": "1698588851"
+    },
+"3": {
+      "title": "GoYuu de Local Gohan Manga | GoYuu Local Food Manga",
+      "volume": "0",
+      "groups": {
+        "islet / Enoshima": "/proxy/api/imgchest/chapter/bp45qk8lg45/"
+      },
+      "last_updated": "1698588851"
+    },
+"4": {
+      "title": "actorxactor",
+      "volume": "0",
+      "groups": {
+        "islet / Enoshima": "/proxy/api/imgchest/chapter/m9yx3xv6kyq/"
+      },
+      "last_updated": "1708611251"
+    },
+"5": {
+      "title": "Dou Shiyou mo Naku Koi wo Shiteiru | Hopelessly in Love",
+      "volume": "0",
+      "groups": {
+        "islet / Enoshima": "/proxy/api/imgchest/chapter/na7k8xwvb78/"
+      },
+      "last_updated": "1708611251"
+    },
+"6": {
+      "title": "Shota Yuuji Goyuu no Ecchi na Hon | Shota Yuuji Lewd GoYuu Book",
+      "volume": "0",
+      "groups": {
+        "islet / Enoshima": "/proxy/api/imgchest/chapter/6eyrlrdlgyp/"
+      },
+      "last_updated": "1726582451"
+    },
+"7": {
+      "title": "Onaji Yume wo Mitai | I Want to See the Same Dream",
+      "volume": "0",
+      "groups": {
+        "islet / Enoshima": "/proxy/api/imgchest/chapter/qb4zn6knd4j/"
+      },
+      "last_updated": "1726582451"
+    }
+  }
+}
