@@ -1,0 +1,17 @@
+{
+  "title": "Tora!",
+  "description": "Pairing: Gojo Satoru x Itadori Yuuji",
+  "artist": "Aigan Shounen / OJIKI",
+  "author": "Aigan Shounen / OJIKI",
+  "cover": "https://cdn.imgchest.com/files/7mmc96a5a27.jpg",
+  "chapters": {
+    "0": {
+      "title": "Tiger!",
+      "volume": "1",
+      "groups": {
+        "Aigan Shounen / OJIKI": "/proxy/api/imgchest/chapter/5xy22bp8zyl/"
+      },
+      "last_updated": "1717949333"
+    }
+  }
+}
